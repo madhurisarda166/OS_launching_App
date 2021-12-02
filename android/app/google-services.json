@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442291306101",
+    "firebase_url": "https://dockerapp-105a6.firebaseio.com",
+    "project_id": "dockerapp-105a6",
+    "storage_bucket": "dockerapp-105a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442291306101:android:d7e1dc8f1156502d10c23c",
+        "android_client_info": {
+          "package_name": "com.aaditya.docker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442291306101-qp2pge21alu4q47kiup9pmnlj7m97ju3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADiV05dC5ENKkmxXQqxp_lKX69cPZmdbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442291306101-qp2pge21alu4q47kiup9pmnlj7m97ju3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
